@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <string name="static_add">静态添加Fragment</string>
+    <string name="dynamic_add">动态添加Fragment</string>
+
+
+
+    <string name="add_right_fragment">添加右布局</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
